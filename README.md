@@ -11,6 +11,9 @@ The website for responsive practicing with HTML, CSS
 + Semantic HTML(header, main, footer, section)
 + alt text for images
 
+## A small interactive
+When hover on image of 'About me' section, it will zoom with transition effect 😊
+
 ## The desktop
 
 ![alt text](./assets/desktop.png)
